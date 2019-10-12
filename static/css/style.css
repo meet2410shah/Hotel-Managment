@@ -37,3 +37,6 @@ a:hover {
   color: #000000 !important;
   background-color: #ffffff;
 }
+.unlocked {
+  background-image: url("../icons/unLocked.png");
+}
